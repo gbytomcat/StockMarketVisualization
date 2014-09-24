@@ -1,4 +1,4 @@
-StockMarketVisualization
+Stock Market Visualization
 ========================
 
 *What is the topic you'd like to explore?*
