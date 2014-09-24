@@ -8,11 +8,11 @@ Study the co-fluctuation of stocks and visualize the the stock market structure
 *Why is this topic personally important to you? What is it about the topic that most fascinates you?*
 
 Over the past few years, I have developed an interest in Quantitative Finance and would like to
-explore the gazillion byte of financial data available. It will be interesting to apply ML techniques
+explore the gazillion bytes of financial data available. It will be interesting to apply ML techniques
 to this data set.
  
 p.s: This has been done many many times already. But I would like this to be a first step.
-A sample implementation can be found at this link [Scikit learn's example](http://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html)
+A sample implementation can be found at this link - [Scikit learn's example](http://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html)
  
 *What is the question, or what are the main questions, that you'd like to answer about this topic?*
 
